@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Log In &lsaquo; My Wordpress &#8212; WordPress</title>
+	<title>Log In &lsaquo; Bongda.com.vn &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="dashicons-css" href="https://votananhvu.github.io/mywordpress/wp-includes/css/dashicons.min.css?ver=5.7.2" media="all">
@@ -12,7 +12,11 @@
 <link rel="stylesheet" id="login-css" href="https://votananhvu.github.io/mywordpress/wp-admin/css/login.min.css?ver=5.7.2" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-		</head>
+	<link rel="icon" href="https://votananhvu.github.io/mywordpress/wp-content/uploads/2021/06/cropped-Logo-Bong-Da-02-1-32x32.jpg" sizes="32x32">
+<link rel="icon" href="https://votananhvu.github.io/mywordpress/wp-content/uploads/2021/06/cropped-Logo-Bong-Da-02-1-192x192.jpg" sizes="192x192">
+<link rel="apple-touch-icon" href="https://votananhvu.github.io/mywordpress/wp-content/uploads/2021/06/cropped-Logo-Bong-Da-02-1-180x180.jpg">
+<meta name="msapplication-TileImage" content="https://votananhvu.github.io/mywordpress/wp-content/uploads/2021/06/cropped-Logo-Bong-Da-02-1-270x270.jpg">
+	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-en-us">
 	<script type="text/javascript">
 		document.body.className = document.body.className.replace('no-js','js');
@@ -44,14 +48,14 @@
 		</form>
 
 					<p id="nav">
-				<a href="https://votananhvu.github.io/mywordpress/wp-login.php?action=register">Register</a> | 				<a href="https://votananhvu.github.io/mywordpress/wp-login.php?action=lostpassword">Lost your password?</a>
+				<a href="https://votananhvu.github.io/mywordpress/wp-login.php?action=register">Register</a> | 				<a href="https://votananhvu.github.io/mywordpress/tai-khoan/lost-password/">Lost your password?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="https://votananhvu.github.io/mywordpress/">&larr; Go to My Wordpress</a>		</p>
+			<a href="https://votananhvu.github.io/mywordpress/">&larr; Go to Bongda.com.vn</a>		</p>
 			</div>
 	<script src="https://votananhvu.github.io/mywordpress/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
 <script src="https://votananhvu.github.io/mywordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
@@ -85,7 +89,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 </script>
 <script src="https://votananhvu.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"485d536554"};
+var userProfileL10n = {"user_id":"0","nonce":"a77743a936"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {

@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for My WordPress	</title>
+	Comments for Bongda.com.vn	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://votananhvu.github.io/mywordpress</link>
-	<description>Wordpress vipro</description>
-	<lastBuildDate>Wed, 09 Jun 2021 12:22:13 +0000</lastBuildDate>
+	<description>Welcome</description>
+	<lastBuildDate>Thu, 10 Jun 2021 07:58:31 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
