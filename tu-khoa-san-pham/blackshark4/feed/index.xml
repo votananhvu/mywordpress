@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>blackshark4 &#8211; Smartphone</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/blackshark4/feed/" rel="self" type="application/rss+xml" />
+	<link>https://votananhvu.github.io/mywordpress</link>
+	<description>Welcome</description>
+	<lastBuildDate>Sun, 26 Sep 2021 11:09:55 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://votananhvu.github.io/mywordpress/wp-content/uploads/2021/09/cropped-logosmartphone-1-32x32.jpg</url>
+	<title>blackshark4 &#8211; Smartphone</title>
+	<link>https://votananhvu.github.io/mywordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Điện thoại Xiaomi Black Shark 4</title>
+		<link>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-xiaomi-black-shark-4/</link>
+					<comments>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-xiaomi-black-shark-4/#respond</comments>
+		
+		<dc:creator><![CDATA[Anh Vũ]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 08:29:53 +0000</pubDate>
+				<guid isPermaLink="false">https://votananhvu.github.io/mywordpress/?post_type=product&#038;p=377</guid>
+
+					<description><![CDATA[Xiaomi Black Shark 4 được trang bị chipset cực mạnh Qualcomm Snapdragon 870 mới nhất. Tốc độ truyền dữ liệu, truy cập dữ liệu cực kì nhanh với RAM LPDDR 5 và UFS 3.1. Hệ thống làm mát cũng được cải thiện khá lớn, giúp giảm nhiệt độ CPU lên đến 18 độ C. <a href="https://mobilecity.vn/xiaomi/xiaomi-black-shark-4.html" target="_blank" rel="noopener noreferrer">Xiaomi Black Shark 4</a> vẫn có thiết kế 2 nút trigger hỗ trợ chơi game và loa kép với âm thanh cực tốt. Những cấu hình, chức năng hỗ trợ chơi game tốt nhất đều có mặt trên điện thoại.]]></description>
+		
+					<wfw:commentRss>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-xiaomi-black-shark-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

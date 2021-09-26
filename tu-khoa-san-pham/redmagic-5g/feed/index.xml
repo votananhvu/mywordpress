@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Redmagic 5g &#8211; Smartphone</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/redmagic-5g/feed/" rel="self" type="application/rss+xml" />
+	<link>https://votananhvu.github.io/mywordpress</link>
+	<description>Welcome</description>
+	<lastBuildDate>Sun, 26 Sep 2021 10:23:12 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://votananhvu.github.io/mywordpress/wp-content/uploads/2021/09/cropped-logosmartphone-1-32x32.jpg</url>
+	<title>Redmagic 5g &#8211; Smartphone</title>
+	<link>https://votananhvu.github.io/mywordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Điện thoại Nubia Red Magic 5G</title>
+		<link>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-nubia-red-magic-5g/</link>
+					<comments>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-nubia-red-magic-5g/#respond</comments>
+		
+		<dc:creator><![CDATA[Anh Vũ]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 10:23:11 +0000</pubDate>
+				<guid isPermaLink="false">https://votananhvu.github.io/mywordpress/?post_type=product&#038;p=417</guid>
+
+					<description><![CDATA[Nubia <a href="https://mobilecity.vn/zte/nubia-red-magic-5g.html">Red Magic 5G</a> với nhiều nâng cấp, cải tiến vượt trội so với những chiếc smartphone trên thị trường. Đây là mẫu gaming phone có kì vọng đánh bại ROG và Black Shark đình đám]]></description>
+		
+					<wfw:commentRss>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-nubia-red-magic-5g/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

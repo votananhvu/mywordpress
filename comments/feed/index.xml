@@ -7,43 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments for Bongda.com.vn	</title>
+	Bình luận cho Smartphone	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://votananhvu.github.io/mywordpress</link>
 	<description>Welcome</description>
-	<lastBuildDate>Mon, 30 Aug 2021 01:05:32 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 15:08:12 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
-	<item>
-		<title>
-		Comment on CHÍNH THỨC! &#8220;Đôi chân ma thuật&#8221; của Arsenal bước vào Ngôi đền huyền thoại Premier League by VTAV VTAV		</title>
-		<link>https://votananhvu.github.io/mywordpress/chinh-thuc-doi-chan-ma-thuat-cua-arsenal-buoc-vao-ngoi-den-huyen-thoai-premier-league/#comment-22</link>
-
-		<dc:creator><![CDATA[VTAV VTAV]]></dc:creator>
-		<pubDate>Thu, 10 Jun 2021 08:16:24 +0000</pubDate>
-		<guid isPermaLink="false">https://votananhvu.github.io/mywordpress/?p=22#comment-22</guid>
-
-					<description><![CDATA[a hihi]]></description>
-			<content:encoded><![CDATA[<p>a hihi</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Comment on CHÍNH THỨC! &#8220;Đôi chân ma thuật&#8221; của Arsenal bước vào Ngôi đền huyền thoại Premier League by VTAV VTAV		</title>
-		<link>https://votananhvu.github.io/mywordpress/chinh-thuc-doi-chan-ma-thuat-cua-arsenal-buoc-vao-ngoi-den-huyen-thoai-premier-league/#comment-21</link>
-
-		<dc:creator><![CDATA[VTAV VTAV]]></dc:creator>
-		<pubDate>Thu, 10 Jun 2021 08:16:07 +0000</pubDate>
-		<guid isPermaLink="false">https://votananhvu.github.io/mywordpress/?p=22#comment-21</guid>
-
-					<description><![CDATA[Good morning!]]></description>
-			<content:encoded><![CDATA[<p>Good morning!</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>
