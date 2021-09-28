@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/home/smartphone-moi/apple/feed/" rel="self" type="application/rss+xml" />
 	<link>https://votananhvu.github.io/mywordpress</link>
 	<description>Welcome</description>
-	<lastBuildDate>Mon, 27 Sep 2021 00:39:24 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Sep 2021 02:09:20 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Bộ sản phẩm hot tháng 9</title>
+		<link>https://votananhvu.github.io/mywordpress/product/bo-san-pham-hot-thang-9/</link>
+					<comments>https://votananhvu.github.io/mywordpress/product/bo-san-pham-hot-thang-9/#respond</comments>
+		
+		<dc:creator><![CDATA[Anh Vũ]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 15:06:13 +0000</pubDate>
+				<guid isPermaLink="false">https://votananhvu.github.io/mywordpress/?post_type=product&#038;p=515</guid>
+
+					<description><![CDATA[Gồm: IPhone X (cũ) + Dán cường lực + Ốp lưng
+
+&#160;]]></description>
+		
+					<wfw:commentRss>https://votananhvu.github.io/mywordpress/product/bo-san-pham-hot-thang-9/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Điện thoại iPhone 7 Plus cũ</title>
-		<link>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-iphone-7-plus-cu/</link>
-					<comments>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-iphone-7-plus-cu/#respond</comments>
+		<link>https://votananhvu.github.io/mywordpress/product/dien-thoai-iphone-7-plus-cu/</link>
+					<comments>https://votananhvu.github.io/mywordpress/product/dien-thoai-iphone-7-plus-cu/#respond</comments>
 		
 		<dc:creator><![CDATA[Anh Vũ]]></dc:creator>
 		<pubDate>Sun, 26 Sep 2021 11:54:59 +0000</pubDate>
@@ -40,15 +58,15 @@
 
 <strong>Tình trạng:</strong> cũ (99%)]]></description>
 		
-					<wfw:commentRss>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-iphone-7-plus-cu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://votananhvu.github.io/mywordpress/product/dien-thoai-iphone-7-plus-cu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Điện thoại iPhone X Cũ</title>
-		<link>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-iphone-x-cu/</link>
-					<comments>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-iphone-x-cu/#respond</comments>
+		<link>https://votananhvu.github.io/mywordpress/product/dien-thoai-iphone-x-cu/</link>
+					<comments>https://votananhvu.github.io/mywordpress/product/dien-thoai-iphone-x-cu/#respond</comments>
 		
 		<dc:creator><![CDATA[Anh Vũ]]></dc:creator>
 		<pubDate>Sun, 26 Sep 2021 11:46:20 +0000</pubDate>
@@ -58,15 +76,15 @@
 
 <strong>Tình trang:</strong> cũ (99%)]]></description>
 		
-					<wfw:commentRss>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-iphone-x-cu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://votananhvu.github.io/mywordpress/product/dien-thoai-iphone-x-cu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Điện thoại iPhone 11 Pro Cũ</title>
-		<link>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-iphone-11-pro-cu/</link>
-					<comments>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-iphone-11-pro-cu/#respond</comments>
+		<link>https://votananhvu.github.io/mywordpress/product/dien-thoai-iphone-11-pro-cu/</link>
+					<comments>https://votananhvu.github.io/mywordpress/product/dien-thoai-iphone-11-pro-cu/#respond</comments>
 		
 		<dc:creator><![CDATA[Anh Vũ]]></dc:creator>
 		<pubDate>Sun, 26 Sep 2021 11:35:05 +0000</pubDate>
@@ -74,15 +92,15 @@
 
 					<description><![CDATA[<strong>Tình trạng:</strong> cũ (99%)]]></description>
 		
-					<wfw:commentRss>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-iphone-11-pro-cu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://votananhvu.github.io/mywordpress/product/dien-thoai-iphone-11-pro-cu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Điện thoại iPhone 12 Pro Max Chính hãng</title>
-		<link>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-iphone-12-pro-max-chinh-hang/</link>
-					<comments>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-iphone-12-pro-max-chinh-hang/#respond</comments>
+		<link>https://votananhvu.github.io/mywordpress/product/dien-thoai-iphone-12-pro-max-chinh-hang/</link>
+					<comments>https://votananhvu.github.io/mywordpress/product/dien-thoai-iphone-12-pro-max-chinh-hang/#respond</comments>
 		
 		<dc:creator><![CDATA[Anh Vũ]]></dc:creator>
 		<pubDate>Sun, 26 Sep 2021 11:01:13 +0000</pubDate>
@@ -90,15 +108,15 @@
 
 					<description><![CDATA[<strong>iPhone 12 Pro Max Chính hãng</strong> không thay đổi trong thiết kế màn hình, vẫn là màn hình tai thỏ giống với phiên bản tiền nhiệm nhưng kích thước màn hình có thay đổi lớn hơn 1 chút. Màn hình của <a href="https://mobilecity.vn/apple/iphone-12-pro-max.html" target="_blank" rel="noopener noreferrer">iPhone 12 Pro Max Chính hãng</a> được trang bị là Super Retina XDR OLED 6.7'', với độ phân giải Full HD+ mang đến trải nghiệm vô cùng tốt cho người dùng.]]></description>
 		
-					<wfw:commentRss>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-iphone-12-pro-max-chinh-hang/feed/</wfw:commentRss>
+					<wfw:commentRss>https://votananhvu.github.io/mywordpress/product/dien-thoai-iphone-12-pro-max-chinh-hang/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Điện thoại iPhone 12 Mini cũ</title>
-		<link>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-iphone-12-mini-cu/</link>
-					<comments>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-iphone-12-mini-cu/#respond</comments>
+		<link>https://votananhvu.github.io/mywordpress/product/dien-thoai-iphone-12-mini-cu/</link>
+					<comments>https://votananhvu.github.io/mywordpress/product/dien-thoai-iphone-12-mini-cu/#respond</comments>
 		
 		<dc:creator><![CDATA[Anh Vũ]]></dc:creator>
 		<pubDate>Sun, 26 Sep 2021 10:37:00 +0000</pubDate>
@@ -110,7 +128,7 @@
 
 <strong>Màu sắc: </strong>Xanh]]></description>
 		
-					<wfw:commentRss>https://votananhvu.github.io/mywordpress/san-pham/dien-thoai-iphone-12-mini-cu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://votananhvu.github.io/mywordpress/product/dien-thoai-iphone-12-mini-cu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

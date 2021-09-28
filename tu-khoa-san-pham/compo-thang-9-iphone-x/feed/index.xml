@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/compo-thang-9-iphone-x/feed/" rel="self" type="application/rss+xml" />
 	<link>https://votananhvu.github.io/mywordpress</link>
 	<description>Welcome</description>
-	<lastBuildDate>Sun, 26 Sep 2021 15:06:14 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Sep 2021 00:56:04 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,8 +29,8 @@
 </image> 
 	<item>
 		<title>Bộ sản phẩm hot tháng 9</title>
-		<link>https://votananhvu.github.io/mywordpress/san-pham/bo-san-pham-hot-thang-9/</link>
-					<comments>https://votananhvu.github.io/mywordpress/san-pham/bo-san-pham-hot-thang-9/#respond</comments>
+		<link>https://votananhvu.github.io/mywordpress/product/bo-san-pham-hot-thang-9/</link>
+					<comments>https://votananhvu.github.io/mywordpress/product/bo-san-pham-hot-thang-9/#respond</comments>
 		
 		<dc:creator><![CDATA[Anh Vũ]]></dc:creator>
 		<pubDate>Sun, 26 Sep 2021 15:06:13 +0000</pubDate>
@@ -40,7 +40,7 @@
 
 &#160;]]></description>
 		
-					<wfw:commentRss>https://votananhvu.github.io/mywordpress/san-pham/bo-san-pham-hot-thang-9/feed/</wfw:commentRss>
+					<wfw:commentRss>https://votananhvu.github.io/mywordpress/product/bo-san-pham-hot-thang-9/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
