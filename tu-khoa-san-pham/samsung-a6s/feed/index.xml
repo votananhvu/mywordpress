@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Samsung A6s &#8211; Smartphone</title>
+	<title>Samsung A6s &#8211; VSmartphone</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/samsung-a6s/feed/" rel="self" type="application/rss+xml" />
 	<link>https://votananhvu.github.io/mywordpress</link>
-	<description>Welcome</description>
+	<description></description>
 	<lastBuildDate>Mon, 11 Oct 2021 09:13:19 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://votananhvu.github.io/mywordpress/wp-content/uploads/2021/09/cropped-logosmartphone-1-32x32.jpg</url>
-	<title>Samsung A6s &#8211; Smartphone</title>
+	<title>Samsung A6s &#8211; VSmartphone</title>
 	<link>https://votananhvu.github.io/mywordpress</link>
 	<width>32</width>
 	<height>32</height>
